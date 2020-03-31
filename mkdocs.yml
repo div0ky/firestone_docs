@@ -1,0 +1,12 @@
+site_name: Firestone Idle Bot Docs
+site_author: div0ky
+site_url: https://firestone.div0ky.com/docs/
+use_directory_urls: True
+theme: readthedocs
+extra:
+  version: 0.1
+markdown_extensions:
+    - smarty
+    - footnotes
+    - admonition
+    - codehilite
