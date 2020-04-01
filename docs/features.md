@@ -39,4 +39,10 @@ Every five minutes the bot will check the *Hall of Magic* to see if your guardia
 A feature I'm planning on implementing soon is to have the bot purchase as many tokens as it can, and then open as many tavern cards as it can afford.
 
 ## Map Missions
-asdf 
+[COMING SOON]
+
+## Guild Expeditions
+[COMING SOON]
+
+## Auto Prestige
+[COMING SOON]
