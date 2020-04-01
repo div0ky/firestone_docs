@@ -2,6 +2,7 @@
 
 ![doc_version](https://img.shields.io/badge/docs-v0.1-blue)
 ![latest](https://img.shields.io/badge/bot-v0.8-blue)
+[![Documentation Status](https://readthedocs.org/projects/firestone-idle-bot/badge/?version=latest)](https://firestone-idle-bot.readthedocs.io/en/latest/?badge=latest)
 
 Welcome to the documentation for **Firestone Idle Bot** by [div0ky](https://div0ky.com). Hopefully you'll find everything you need to know within these pages. If you think something is missing, please feel free to reach out.
 
