@@ -1,8 +1,8 @@
 # Getting Started
 
-![doc_version](https://img.shields.io/badge/docs-v0.1-blue)
-![latest](https://img.shields.io/badge/bot-v0.8-blue)
-[![Documentation Status](https://readthedocs.org/projects/firestone-idle-bot/badge/?version=latest)](https://firestone-idle-bot.readthedocs.io/en/latest/?badge=latest)
+![doc_version](https://img.shields.io/static/v1?label=docs&message=v0.1&color=blue&style=flat-square)
+![latest](https://img.shields.io/static/v1?label=bot&message=v0.8&color=blue&style=flat-square)
+![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Ffirestone.div0ky.com&style=flat-square)
 
 Welcome to the documentation for **Firestone Idle Bot** by [div0ky](https://div0ky.com). Hopefully you'll find everything you need to know within these pages. If you think something is missing, please feel free to reach out.
 
