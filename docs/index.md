@@ -24,7 +24,7 @@ There are a few other things you'll need to know. We'll break down individual fe
 * Screen resolution must be 1920x1080
 * You must run the game in **Fullscreen**
 * The bot expects your upgrades will start at `x1` before starting it
-* [^1] You must have your chest opening speed set to `>> 2` speed
+* You must have your chest opening speed set to `>> 2` speed [^1] 
 
 
 [^1]: Only applies to Silver & Gold editions
